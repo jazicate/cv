@@ -1,1 +1,1 @@
-# cv
+jazicate.github.io/cv/
